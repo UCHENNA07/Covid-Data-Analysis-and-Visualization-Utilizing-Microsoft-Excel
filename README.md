@@ -11,4 +11,5 @@ This is a project on Covid19 vaccines used in the pre and post lockdown period o
 1. The top 3 most vaccinated countries are the United States, Germany and France while the bottom 3 are Lexumburg, Iceland and Liechtenstein.
 2. The most administered vaccines are Pfizer/BioNTech, Moderna and Oxford/AstraZeneca
 
-# NOTE These data are concentrated on European Union Countries and a few other countries.
+# NOTE 
+These data are concentrated on European Union Countries and a few other countries.
